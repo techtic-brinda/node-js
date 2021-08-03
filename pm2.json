@@ -1,0 +1,11 @@
+{
+    "apps": [
+	    {
+            "name": "evcharging",
+            "script": "npm",
+            "args": "run start:prod",
+            "out_file": "/dev/null",
+            "error_file": "/dev/null"
+       }
+    ]
+}
